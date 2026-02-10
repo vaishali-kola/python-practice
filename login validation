@@ -1,0 +1,10 @@
+username="admin"
+password="1234"
+if(username=="admin"):
+    if(password=="1234"):
+        print("login successfull")
+    else:
+        print("wrong password")
+else:
+    print("invalid username")
+ 
